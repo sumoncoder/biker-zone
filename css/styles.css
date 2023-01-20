@@ -1,0 +1,12 @@
+.bikers-zone-light-red{
+    background-color: rgba(255, 0, 0, 0.19);
+}
+.btn-bz{
+    background-color: darkred;
+    color: whitesmoke;
+}
+.footer-area{
+    background-color: lightskyblue;
+    padding: 20px;
+    margin-top: 50px;
+}
